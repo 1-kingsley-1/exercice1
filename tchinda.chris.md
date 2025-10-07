@@ -1,3 +1,3 @@
-ceci est une premiere phrase
-ceci est une deuxieme phrase
-ceci est une troisieme phrase
+Ceci est une première phrase!
+Ceci est une deuxième phrase !
+Ceci est une troisième phrase !
