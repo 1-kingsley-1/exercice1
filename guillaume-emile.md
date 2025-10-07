@@ -1,3 +1,3 @@
 slt
 ca va 
-ok
+Ok!
